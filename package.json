@@ -1,0 +1,25 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinyeramos2021/adopt-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinyeramos2021/adopt-me/issues"
+  },
+  "homepage": "https://github.com/kinyeramos2021/adopt-me#readme",
+  "dependencies": {
+    "D": "^1.0.0",
+    "prettier": "^2.3.2"
+  }
+}
