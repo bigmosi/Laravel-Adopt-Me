@@ -21,5 +21,9 @@
   "dependencies": {
     "D": "^1.0.0",
     "prettier": "^2.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0"
   }
 }
